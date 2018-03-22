@@ -11,6 +11,13 @@ body {
 button {
     outline:none;
 }
+.pad-left {
+    padding: 0 0 1% 6%;
+}
+.skills-ico {
+    height: 80px;
+    padding-left: 80px;
+}
 #personal-icon {
     padding:20px;
     height: 80px;
